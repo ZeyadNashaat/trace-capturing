@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+capture_pkg.egg-info/
+capture_pkg/__pycache__/
+.venv/
