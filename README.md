@@ -3,6 +3,9 @@
 
 **Zeyad Mohamed Nashaat Abdelghany Gharaf**
 
+## Collaborators
+**Niccolo' Izzo**
+
 ## Overview
 
 The `trace_capturing` tool is a Python package designed to automate trace acquisition for Side-Channel Analysis (SCA) experiments.
